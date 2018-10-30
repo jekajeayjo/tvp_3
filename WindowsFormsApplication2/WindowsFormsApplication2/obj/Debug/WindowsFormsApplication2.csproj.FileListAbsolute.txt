@@ -1,0 +1,22 @@
+C:\Users\mariakonop\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\mariakonop\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\mariakonop\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\mariakonop\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\mariakonop\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\mariakonop\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\mariakonop\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\mariakonop\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\mariakonop\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Универ\4 курс\1 семестр\ТВП Помян (Теория Вычислительных Процессов)\твп Маша\лаба3\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Универ\4 курс\1 семестр\ТВП Помян (Теория Вычислительных Процессов)\твп Маша\лаба3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Универ\4 курс\1 семестр\ТВП Помян (Теория Вычислительных Процессов)\твп Маша\лаба3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\учеба\4 КУРС\1 СЕМЕСТР\ТВП\ТВП Помян (Теория Вычислительных Процессов)\твп Маша\лаба3\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\учеба\4 КУРС\1 СЕМЕСТР\ТВП\ТВП Помян (Теория Вычислительных Процессов)\твп Маша\лаба3\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\учеба\4 КУРС\1 СЕМЕСТР\ТВП\ТВП Помян (Теория Вычислительных Процессов)\твп Маша\лаба3\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\учеба\4 КУРС\1 СЕМЕСТР\ТВП\ТВП Помян (Теория Вычислительных Процессов)\твп Маша\лаба3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\учеба\4 КУРС\1 СЕМЕСТР\ТВП\ТВП Помян (Теория Вычислительных Процессов)\твп Маша\лаба3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\учеба\4 КУРС\1 СЕМЕСТР\ТВП\ТВП Помян (Теория Вычислительных Процессов)\твп Маша\лаба3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\учеба\4 КУРС\1 СЕМЕСТР\ТВП\ТВП Помян (Теория Вычислительных Процессов)\твп Маша\лаба3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\учеба\4 КУРС\1 СЕМЕСТР\ТВП\ТВП Помян (Теория Вычислительных Процессов)\твп Маша\лаба3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\учеба\4 КУРС\1 СЕМЕСТР\ТВП\ТВП Помян (Теория Вычислительных Процессов)\твп Маша\лаба3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\учеба\4 КУРС\1 СЕМЕСТР\ТВП\ТВП Помян (Теория Вычислительных Процессов)\твп Маша\лаба3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
